@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Orçamentos Pro",
+  "description": "An application to create, manage, and send detailed quotes. Core features include full data editing and exporting quotes to professional PDF documents.",
+  "requestFramePermissions": []
+}
